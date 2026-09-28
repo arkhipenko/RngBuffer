@@ -1,0 +1,10 @@
+# Claude Code and Design Central local files (.mcp.json and .dc/ hold an access token)
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
+.dc/
+claude-start
+
+# Folders starting with '_'
+_*/

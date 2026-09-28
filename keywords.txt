@@ -1,0 +1,48 @@
+#######################################
+# Syntax Coloring Map For RngBuffer
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RngBuffer	KEYWORD1
+RngBufferStatus	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+rng_buffer_init	KEYWORD2
+rng_buffer_init_elements	KEYWORD2
+rng_buffer_put	KEYWORD2
+rng_buffer_get	KEYWORD2
+rng_buffer_put_element	KEYWORD2
+rng_buffer_get_element	KEYWORD2
+rng_buffer_peek_element	KEYWORD2
+rng_buffer_put_elements	KEYWORD2
+rng_buffer_get_elements	KEYWORD2
+rng_buffer_count_elements	KEYWORD2
+rng_buffer_clear	KEYWORD2
+rng_buffer_is_empty	KEYWORD2
+rng_buffer_is_full	KEYWORD2
+rng_buffer_count	KEYWORD2
+rng_buffer_free_space	KEYWORD2
+rng_buffer_capacity	KEYWORD2
+rng_buffer_size	KEYWORD2
+rng_buffer_element_size	KEYWORD2
+rng_buffer_lock	KEYWORD2
+rng_buffer_unlock	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+RNG_BUFFER_OK	LITERAL1
+RNG_BUFFER_FULL	LITERAL1
+RNG_BUFFER_EMPTY	LITERAL1
+RNG_BUFFER_LOCK_FAILED	LITERAL1
+RNG_BUFFER_INVALID	LITERAL1
+RNG_BUFFER_VERSION	LITERAL1
+RNG_BUFFER_VERSION_STRING	LITERAL1
+RNG_BUFFER_LOCK_TIMEOUT	LITERAL1
