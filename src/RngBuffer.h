@@ -5,8 +5,8 @@
 #include <stdint.h>
 #include <stddef.h>  // For size_t
 
-#define RNG_BUFFER_VERSION        20000    // major * 10000 + minor * 100 + patch
-#define RNG_BUFFER_VERSION_STRING "2.0.0"
+#define RNG_BUFFER_VERSION        20001    // major * 10000 + minor * 100 + patch
+#define RNG_BUFFER_VERSION_STRING "2.0.1"
 
 #ifdef __cplusplus
 extern "C" {
